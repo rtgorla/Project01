@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+body{
+    background-color: black;
+}
+.lyt{
+    background-color: black;
+    display:flex;
+    justify-content:space-around;
+    text-align: center;
+    border : 20px;
+    border-radius: 20px;
+    border-color: whitesmoke;
+    border-style: double;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
